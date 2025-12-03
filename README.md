@@ -1,2 +1,2 @@
 # my-profile
-My first repository profile
+My profile
